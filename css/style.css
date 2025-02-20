@@ -1,3 +1,16 @@
 .Git_hup {
-  color: red;
+  color: white;
+  padding: 30px 0px;
+}
+
+.header {
+  background: skyblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
 }
